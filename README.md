@@ -22,7 +22,7 @@ Here is a snippet of code: `System.out.println("Hello! My favorite color is blue
 ---
 
 ### Links and Images
-Here is a clickable link: [Empire State Building Light Schedule]([https://www.stevens.edu](https://www.esbnyc.com/about/tower-lights))
+[Empire State Building Light Schedule](https://www.esbnyc.com/about/tower-lights)
 
 Here is an image:
-![NYC Skyline]([https://images.ctfassets.net/bht415zek091/26BKxLxPt1NsYSlbxs3AQD/796666e070d1c1258923295d31e8c47e/matt.ritchie_DSC00865-web.jpg))
+![NYC Skyline](https://images.ctfassets.net/bht415zek091/26BKxLxPt1NsYSlbxs3AQD/796666e070d1c1258923295d31e8c47e/matt.ritchie_DSC00865-web.jpg)
